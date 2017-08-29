@@ -1,7 +1,7 @@
 # NoteNamer
 A Unity note naming game designed to help my music students with their sight reading. These are the script files for the project.
 
-# Script Files
+## Script Files
 **ButtonScript.cs:** Handles sending a student's answer to the GameController.    
   
 **GameControllerScript.cs:** Handles the logic for the GameController object.    
